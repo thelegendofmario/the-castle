@@ -40,7 +40,7 @@ with the castle looming above you, you have to make a choice.
     
 === to_the_door
 you walk to the door. suprisingly, it's unlocked!
-
+TO BE CONTINUED (COMING SOON)->DONE
 === the_stranger
 * [take one more step]
  you try to take one more step, but before you do, you get teleported back to outside the castle. more specifically the chasm surrounding the castle. you fall to your death...
